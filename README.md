@@ -1,0 +1,2 @@
+# Aritmatika
+Deret Aritmatika
